@@ -8,7 +8,7 @@ I'm studying computer engineering at RSU
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [bestsukrit0@gmail.com](mailto:bestsukrit0@gmail.com)
-* 🧠  I'm learning new coder
+* 🧠  I'm learning coding
 
 ### Skills
 
